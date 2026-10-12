@@ -69,7 +69,7 @@ window.RADIO_STATIONS = [
     name: "Lo-Fi Hip Hop",
     detail: "学习与放松",
     url: "https://play.streamafrica.net/lofiradio"
-  }，
+  },
     // ===== 英美音乐电台 =====
   {
     name: "KEXP Seattle",

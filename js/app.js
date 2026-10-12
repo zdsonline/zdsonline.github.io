@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const APP_VERSION = "radio-shell-v1.0.2";
+  const APP_VERSION = "radio-shell-v1.0.3";
   const audio = document.getElementById("audio");
   const playButton = document.getElementById("playButton");
   const playIcon = document.getElementById("playIcon");

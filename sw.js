@@ -1,5 +1,5 @@
 /* 每次发布新版本时，务必修改 CACHE_VERSION。 */
-const CACHE_VERSION = "radio-shell-v1.0.2";
+const CACHE_VERSION = "radio-shell-v1.0.3";
 const APP_SHELL = [
   "./",
   "./index.html",

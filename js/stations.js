@@ -69,5 +69,55 @@ window.RADIO_STATIONS = [
     name: "Lo-Fi Hip Hop",
     detail: "学习与放松",
     url: "https://play.streamafrica.net/lofiradio"
+  }，
+    // ===== 英美音乐电台 =====
+  {
+    name: "KEXP Seattle",
+    detail: "美国 · 独立摇滚 / 另类音乐",
+    url: "https://kexp.streamguys1.com/kexp160.aac"
+  },
+  {
+    name: "BBC Radio 1",
+    detail: "英国 · 流行 / 摇滚 / 舞曲",
+    url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one"
+  },
+  {
+    name: "BBC Radio 1Xtra",
+    detail: "英国 · 嘻哈 / R&B / 城市音乐",
+    url: "https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra"
+  },
+  {
+    name: "Radio Paradise",
+    detail: "美国 · 流行 / 摇滚 / 另类音乐",
+    url: "https://stream.radioparadise.com/aac-320"
+  },
+
+  // ===== 美国网络音乐电台 SomaFM =====
+  {
+    name: "SomaFM PopTron",
+    detail: "美国 · 电子流行 / 合成器流行",
+    url: "https://ice5.somafm.com/poptron-128-aac"
+  },
+  {
+    name: "SomaFM Indie Pop Rocks!",
+    detail: "美国 · 独立流行 / 另类摇滚",
+    url: "https://ice5.somafm.com/indiepop-128-aac"
+  },
+  {
+    name: "SomaFM Black Rock FM",
+    detail: "美国 · 另类 / 实验摇滚",
+    url: "https://ice5.somafm.com/brfm-128-aac"
+  },
+
+  // ===== 英国流行音乐电台 =====
+  {
+    name: "Capital Dance",
+    detail: "英国 · 电子舞曲 / 流行舞曲",
+    url: "https://media-ssl.musicradio.com/CapitalDance"
+  },
+  {
+    name: "KISS FM UK",
+    detail: "英国 · 流行 / 嘻哈 / 舞曲",
+    url: "https://stream-kiss.planetradio.co.uk/kissnational.aac"
   }
 ];

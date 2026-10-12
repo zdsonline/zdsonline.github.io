@@ -1,10 +1,26 @@
 {
+  "id": "./",
   "name": "简易收音机",
   "short_name": "收音机",
-  "description": "轻量级网络广播收听器",
-  "start_url": "/index.html",
+  "description": "轻量的网络收音机",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#1a1a2e",
-  "background_color": "#1a1a2e"
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
